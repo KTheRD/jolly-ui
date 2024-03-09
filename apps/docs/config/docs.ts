@@ -236,6 +236,11 @@ export const docsConfig: DocsConfig = {
           href: "/docs/components/textarea",
           items: [],
         },
+        {
+          title: "Separator",
+          href: "/docs/components/separator",
+          items: [],
+        },
       ],
     },
   ],
